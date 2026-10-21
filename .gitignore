@@ -71,3 +71,7 @@ Testing/
 # Python
 __pycache__/
 Genesis/__pycache__/
+
+
+# Local Downloads
+local_assets/
